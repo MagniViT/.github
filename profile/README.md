@@ -19,3 +19,6 @@ Where is the data located on the rds?
 
 ## Other links
 Matt will create a trello board and add the links here.
+
+## Papers to read
+[link to papers](https://github.com/MagniViT/.github/tree/main/papers_to_read)
