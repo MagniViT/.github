@@ -1,5 +1,5 @@
 # Welcome to MagniViT repository 👋
-
+This is a work in progress for our magnificaion Vision Transformer for whole slide image classification of soft-tissue sarcoma.
 ## Aims of project:
 Write what we want to do.
 
