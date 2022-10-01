@@ -3,7 +3,7 @@ This is a work in progress for our magnificaion Vision Transformer for whole sli
 
 Code and paper to be uploaded soon!
 
-<--## Aims of project:
+## Aims of project:
 Write what we want to do.
 
 ## Data
@@ -16,4 +16,4 @@ Where is the data located on the rds?
 Matt will create a trello board and add the links here.
 
 ## Papers to read
-[link to papers](https://github.com/MagniViT/.github/tree/main/papers_to_read)-->
+[link to papers](https://github.com/MagniViT/.github/tree/main/papers_to_read)
